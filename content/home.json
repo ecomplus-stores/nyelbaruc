@@ -21,6 +21,11 @@
           "img": "/img/uploads/banner2.webp",
           "alt": "Banner sample two",
           "mobile_img": "/img/uploads/passion.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/img_20221018_135136_424.jpg"
         }
       ]
     },
