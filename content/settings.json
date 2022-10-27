@@ -1,7 +1,7 @@
 {
   "domain": "nyelbaruc.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#d5e5f5",
+  "primary_color": "#1375d9",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
